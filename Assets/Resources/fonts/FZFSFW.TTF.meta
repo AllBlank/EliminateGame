@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f23c5cfb1b0c81a4799b0b771ffbf77e
+timeCreated: 1509588776
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZFangSong-Z02T
+  fontNames:
+  - FZFangSong-Z02T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

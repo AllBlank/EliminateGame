@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c507101e06404b46a1d6031e5028aca
+timeCreated: 1509588774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZBaoSong-Z04S
+  fontNames:
+  - FZBaoSong-Z04S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

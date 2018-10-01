@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 386cedd32d2f9b34698a12dfea07cfd8
+timeCreated: 1509588774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZCaiYun-M09T
+  fontNames:
+  - FZCaiYun-M09T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f8fb1908129ba4f40bd64bd6394d57cd
+timeCreated: 1509588776
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZHuPo-M04T
+  fontNames:
+  - FZHuPo-M04T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

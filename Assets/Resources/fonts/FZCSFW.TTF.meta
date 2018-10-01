@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3c9a6107c8f64314aa097638e0ca14bd
+timeCreated: 1509588774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZCuSong-B09T
+  fontNames:
+  - FZCuSong-B09T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

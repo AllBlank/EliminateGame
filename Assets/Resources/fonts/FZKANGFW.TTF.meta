@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 193f2799a322c88408e51d8b008cbf9b
+timeCreated: 1509588772
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZKangTi-S07T
+  fontNames:
+  - FZKangTi-S07T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

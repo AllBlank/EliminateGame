@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe1c82aad95567a40876eadc3fd49536
+timeCreated: 1509588777
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thailandesa
+  fontNames:
+  - Thailandesa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

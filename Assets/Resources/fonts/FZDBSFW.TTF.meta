@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 97a2f4ef8bdd2904e9e8f7502f67e944
+timeCreated: 1509588775
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZDaBiaoSong-B06T
+  fontNames:
+  - FZDaBiaoSong-B06T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

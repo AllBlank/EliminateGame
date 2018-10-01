@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 45c93754e8db9b44e924bf641e8cdcf9
+timeCreated: 1509588774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZBeiWeiKaiShu-Z15T
+  fontNames:
+  - FZBeiWeiKaiShu-Z15T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

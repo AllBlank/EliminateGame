@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 519b23c6e6ab9ee4ab195ea30adeb69f
+timeCreated: 1509588774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZJianZhi-M23T
+  fontNames:
+  - FZJianZhi-M23T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

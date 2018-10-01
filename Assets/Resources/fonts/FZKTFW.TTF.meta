@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 171c514f47bad0b4d851aa493f3eb1d9
+timeCreated: 1509588772
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZKai-Z03T
+  fontNames:
+  - FZKai-Z03T
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
